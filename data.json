@@ -1,0 +1,44 @@
+{
+  "ابطال": [
+    {
+      "اسم": "Baldur",
+      "Category": ["B", "A", "S"],
+      "Role": "Support, Avg dbs",
+      "Skills": [
+        {
+          "name": "Seize the Initiative",
+          "type": "Burst",
+          "description": "Rage Cost: 1000\nDeal DMG to the target Troop (DMG Factor 10,500), and grant a shield to this Hero's Troop and one nearby allied Troop (Shield Factor 2,250) for 5 seconds.",
+          "upgrade_preview": "DMG Factor: 3150/4200/5200/7300/10500\nShield Factor: 700/900/1150/1600/2250"
+        },
+        {
+          "name": "Gladiator's Bloodline",
+          "type": "Passive Skill",
+          "description": "When this Hero's Troop is below 50%, attacks from this Hero's Troop for this round deal additional DMG equal to 64% of DMG this Hero's Troop received in the previous round (including DMG to shields). This effect can only trigger once every 8 seconds.",
+          "upgrade_preview": "Attacks deal additional DMG based on DMG received: 19.59%/26%/32%/45.9%/64%"
+        },
+        {
+          "name": "Battle Frenzy",
+          "type": "Passive Skill",
+          "description": "Increase the DEF of this Hero's Troop by 7.5%; and increase the ATK of up to 4 nearby allied Troops by 7.5% while in combat for Arena of Legends, Ancestral Trial, plundering Caravans, and Ancient Wisdom.",
+          "upgrade_preview": "Increase DEF by: 6%/7.5%/9.5%/13%/18.5%\nIncrease ATK by: 6%/7.5%/9.5%/13%/18.5%"
+        },
+        {
+          "name": "Chasing the Thrill",
+          "type": "Passive Skill",
+          "description": "Each time this Hero's Troop defeats an enemy Troop (including Blackforged), increase the ATK and DEF of this Hero's Troop by 6%; and increase the ATK and DEF of up to 4 nearby allied Troops by 2% for 10 seconds. This effect can be stacked up to 3 times.",
+          "upgrade_preview": "ATK & DEF: 4%/6%/7%/10%/13%\nAlly's ATK & DEF: 1%/2%/3%/4%/5%"
+        },
+        {
+          "name": "Wargod Slash",
+          "type": "Skill DMG Buff: Seize the Initiative",
+          "description": "Before Awakening: Deal DMG to the target Troop (DMG Factor 10,500), and grant a shield to this Hero's Troop and one nearby allied Troop (Shield Factor 2,250) for 5 seconds.\nAfter Awakening: Deal DMG to the target Troop (DMG Factor 11,500), and grant a shield to this Hero's Troop and one nearby allied Troop (Shield Factor 2,250) for 5 seconds. For each nearby allied Troop, increase the DMG and Shield Factors of this effect."
+        }
+      ],
+      "Talent_tree": [
+        "Talent 1: وصف التنت",
+        "Talent 2: وصف التنت"
+      ]
+    }
+  ]
+}
