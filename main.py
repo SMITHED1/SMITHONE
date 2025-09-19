@@ -75,4 +75,4 @@ async def بالدور(ctx, category: str = "S"):
         embed_talent3.set_footer(text="Hero lvl: 60 | Stars: 5")
         await ctx.send(embed=embed_talent3)
 
-bot.run("MTM0MTI3MDE3NjQ2NDkwMDExNw.Gjf9QZ.ZosY0_pZCUIs3SNbcVTx9N2mC5Gos2n9q322G0")
+bot.run(os.getenv("MTM0MTI3MDE3NjQ2NDkwMDExNw.GC9mL-.N-NlMlNHHkaxog6-Shhk0BHR_FKo126lyXUyxA"))
